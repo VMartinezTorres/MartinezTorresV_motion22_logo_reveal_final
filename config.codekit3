@@ -48,6 +48,22 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/dev\/content\/logo.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/logo.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/logo.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/logo.html",
+      "oF" : 0
+    },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -62,6 +78,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
+      "oF" : 0
+    },
+    "\/dev\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/index.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -218,6 +242,20 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/layout\/_header.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/dev\/scss\/sections\/_logo.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/sections\/_logo.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
